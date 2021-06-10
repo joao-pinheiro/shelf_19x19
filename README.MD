@@ -6,9 +6,9 @@ No screws required, should fit with pressure, can easily be built with 3-4 shelf
 ### Overview
 
 ![leg stl](img/rack.png)
-![shelf leg](img/shelf_leg_single.png)
-![shelf pair](img/shelf_leg.png)
-![finished structure - 2 shelfs](img/2shelfs.png)
+![shelf leg](img/shelf_leg_single.jpg)
+![shelf pair](img/shelf_leg.jpg)
+![finished structure - 2 shelfs](img/2shelfs.jpg)
 
 ### Printing
 (pictures printed in Ender3 Pro)
